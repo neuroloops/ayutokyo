@@ -1,9 +1,9 @@
 {
     "name": "ayutokyo",
-    "displayName": "AyuTokyo",
+    "displayName": "Ayu green Tokyo Night",
     "publisher": "LudoLoops",
     "description": "vscode theme mixing Ayu Green and tokyo night",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.78.0"
     },
@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "AyuTokyo",
+                "label": "Ayu green in Tokyo Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/AyuTokyo-color-theme.json"
             }
