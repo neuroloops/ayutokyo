@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ayu green in Tokyo Night",
+                "label": "Ayu Tokyo Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/AyuTokyo-color-theme.json"
             }
