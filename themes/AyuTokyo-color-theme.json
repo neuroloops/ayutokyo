@@ -298,6 +298,15 @@
 			}
 		},
 		{
+			"name": "Variable",
+			"scope": [
+				"variable.other.object.property"
+			],
+			"settings": {
+				"foreground": "#1ABC9C"
+			}
+		},
+		{
 			"name": "Member Variable",
 			"scope": [
 				"variable.member"
@@ -322,7 +331,16 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#9D7CD8"
+				"foreground": "#FF8F40"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": [
+				"storage.modifier.import"
+			],
+			"settings": {
+				"foreground": "#BFBDB6"
 			}
 		},
 		{

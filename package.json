@@ -1,7 +1,7 @@
 {
     "name": "ayutokyo",
     "displayName": "AyuTokyo",
-    "description": "",
+    "description": "vscode theme mixing Ayu and tokyo night",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.78.0"
