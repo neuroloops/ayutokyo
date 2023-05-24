@@ -19,6 +19,11 @@
             }
         ]
     },
+    "keywords": [
+        "theme",
+        "tokyo",
+        "ayu"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/neuroloops/ayutokyo"
