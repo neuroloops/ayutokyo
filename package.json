@@ -1,8 +1,8 @@
 {
-    "name": "ayutokyo",
-    "displayName": "Ayu green Tokyo Night",
+    "name": "ayu Tokyo Night",
+    "displayName": "Ayu Tokyo Night",
     "publisher": "LudoLoops",
-    "description": "vscode theme mixing Ayu Green and tokyo night",
+    "description": "vscode theme mixing Ayu Green and Tokyo Night",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.78.0"

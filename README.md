@@ -1,4 +1,4 @@
-# AyuTokyo vscode Theme
+# Ayu Tokyo Night vscode Theme
 
 ## Description
 
@@ -10,16 +10,10 @@ perfect for anyone who wants to add a touch of color to their coding experience.
 
 Vibrant colors that are easy on the eyes
 Dark, calming tones that help you focus
-A wide range of customization options to match your preferences
-Benefits:
-
-Increased productivity
-Improved focus
-Reduced eye strain
-Increased enjoyment of coding
-Try it today and see the difference!
 
 ## Images
+
+![full](./images/Full.png)
 
 ### javascript / tsx
 
