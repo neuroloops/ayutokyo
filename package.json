@@ -1,8 +1,9 @@
 {
     "name": "ayutokyo",
     "displayName": "AyuTokyo",
-    "description": "vscode theme mixing Ayu and tokyo night",
-    "version": "0.0.1",
+    "publisher": "LudoLoops",
+    "description": "vscode theme mixing Ayu Green and tokyo night",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.78.0"
     },
@@ -17,5 +18,9 @@
                 "path": "./themes/AyuTokyo-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neuroloops/ayutokyo"
     }
 }
