@@ -284,7 +284,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#d2a6ff"
+				"foreground": "#FF9E64"
 			}
 		},
 		{
@@ -295,6 +295,15 @@
 			],
 			"settings": {
 				"foreground": "#bfbdb6"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": [
+				"variable.other.property.tsx"
+			],
+			"settings": {
+				"foreground": "#1ABC9C"
 			}
 		},
 		{
@@ -328,10 +337,13 @@
 		{
 			"name": "Storage",
 			"scope": [
-				"storage"
+				"storage",
+				"storage.type.function",
+				"keyword.control.export",
 			],
 			"settings": {
-				"foreground": "#FF8F40"
+				"foreground": "#9D7CD8",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -355,11 +367,11 @@
 		{
 			"name": "Keyword export and arrow function",
 			"scope": [
-				"keyword.control.export",
-				"storage.type.function.arrow"
+				"storage.type.function.arrow",
+				"keyword.operator.assignment"
 			],
 			"settings": {
-				"foreground": "#FF8F40"
+				"foreground": "#A9B1D6"
 			}
 		},
 		{
@@ -369,6 +381,18 @@
 			],
 			"settings": {
 				"foreground": "#1ABC9C"
+			}
+		},
+		{
+			"name": "string quoted",
+			"scope": [
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end",
+				"punctuation.support.type.property-name.begin.json.comments",
+				"punctuation.support.type.property-name.end.json.comments"
+			],
+			"settings": {
+				"foreground": "#bfbdb6b3"
 			}
 		},
 		{
@@ -405,7 +429,7 @@
 				"punctuation.definition.template-expression"
 			],
 			"settings": {
-				"foreground": "#ff8f40"
+				"foreground": "#1ABC9C"
 			}
 		},
 		{
@@ -447,15 +471,6 @@
 			}
 		},
 		{
-			"name": "Lambda arrow",
-			"scope": [
-				"storage.type.function"
-			],
-			"settings": {
-				"foreground": "#BB9AF7"
-			}
-		},
-		{
 			"name": "Java primitive variable types",
 			"scope": [
 				"source.java storage.type.primitive"
@@ -493,6 +508,15 @@
 			],
 			"settings": {
 				"foreground": "#ffb454"
+			}
+		},
+		{
+			"scope": [
+				"source.python entity.name.namespace",
+				"entity.name.function.python"
+			],
+			"settings": {
+				"foreground": "#BFBDB6"
 			}
 		},
 		{

@@ -3,7 +3,7 @@
     "displayName": "AyuTokyo",
     "publisher": "LudoLoops",
     "description": "vscode theme mixing Ayu Green and tokyo night",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.78.0"
     },
